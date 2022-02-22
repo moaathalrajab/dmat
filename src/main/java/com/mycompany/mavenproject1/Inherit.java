@@ -40,6 +40,7 @@ package com.mycompany.mavenproject1;
                       {
 
                                  System.out.println("Rectangle");
+                                 System.out.println("Rectangle");
 
                       } 
 

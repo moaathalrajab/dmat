@@ -23,7 +23,7 @@ package com.mycompany.mavenproject1;
 
                       {
 
-                                 System.out.println("Figure");
+                                 System.out.println("Figure 3 4");
 
                       }
 
